@@ -1,9 +1,7 @@
 # mule-splitter-warning
-Disable warning from splitter for Mule's For-Each element
 
-```
-
-```
+Code to support blog : 
+[Mule: Disable warning from splitter for For Each element](https://www.linkedin.com/pulse/mule-disable-warning-from-splitter-each-element-kedar-krishnan/)
 
 To see the split warn message go to src/main/resources/log4j2.xml and comment below line and restart the application.
 ```java
